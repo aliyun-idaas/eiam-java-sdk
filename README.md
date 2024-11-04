@@ -2,7 +2,7 @@
 ### 使用
 #### 导入包
 idsmanager-eiam-java-sdk-1.0.0.jar
-> 联系九州IDaaS团队授权获取
+
 #### 新建Client
 ```java
 Client client = new Client(ClientConfig.builder()
